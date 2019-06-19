@@ -32,7 +32,6 @@ ALLOWED_HOSTS = ['127.0.0.1', 'yerlansss.pythonanywhere.com']
 
 INSTALLED_APPS = [
     'blog',
-    'app1',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
